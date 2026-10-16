@@ -1,0 +1,4 @@
+Pillow>=10.0,<13
+playwright>=1.55,<2
+mcp>=1.9,<2
+pyinstaller>=6.10,<7

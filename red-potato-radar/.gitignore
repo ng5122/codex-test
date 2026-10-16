@@ -1,0 +1,9 @@
+.venv/
+.pw-browsers/
+build/
+dist/
+__pycache__/
+*.py[cod]
+monitor.db
+monitor.db-shm
+monitor.db-wal
